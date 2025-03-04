@@ -111,9 +111,9 @@ tas_single_node_ctlog_ca_passphrase: rhtas
 tas_single_node_fulcio_server_image:
   "registry.redhat.io/rhtas/fulcio-rhel9@sha256:f58588d336b578da548831d555d627614eabf993a693f570047c2a2bafff5b1b"
 tas_single_node_trillian_log_server_image:
-  "registry.redhat.io/rhtas/trillian-logserver-rhel9@sha256:89eec6d832ff3cd032ace453f950c88b075994e5b905d5347fd927202876c512"
+  "registry.redhat.io/rhtas/trillian-logserver-rhel9@sha256:60f932c73922c11b58a58aa37ec4c229118c5adeef3d9715a707fb3897c3f15d"
 tas_single_node_trillian_log_signer_image:
-  "registry.redhat.io/rhtas/trillian-logsigner-rhel9@sha256:0a9713466a55b5c79eae8dce71fd33184fdd07e59ffd530ca17b60895374902c"
+  "registry.redhat.io/rhtas/trillian-logsigner-rhel9@sha256:4a0c07061b84541341e2f086cdaf7aeac2d782e0194d4772766eefe530894109"
 tas_single_node_rekor_server_image:
   "registry.redhat.io/rhtas/rekor-server-rhel9@sha256:993394a07f178f89eb103b33fbf7bc007db3cca98eaa79e01b6e6a1ba2a302e6"
 tas_single_node_ctlog_image:
